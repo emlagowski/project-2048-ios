@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib">
+      <sourceFolder url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Desktop/Project2048/Grid.h">
+      <sourceFolder url="file://$USER_HOME$/Desktop/Project2048/Grid.h" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Desktop/Project2048/Grid.m">
+      <sourceFolder url="file://$USER_HOME$/Desktop/Project2048/Grid.m" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Desktop/Project2048/Tile.h">
+      <sourceFolder url="file://$USER_HOME$/Desktop/Project2048/Tile.h" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Desktop/Project2048/Tile.m">
+      <sourceFolder url="file://$USER_HOME$/Desktop/Project2048/Tile.m" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+
