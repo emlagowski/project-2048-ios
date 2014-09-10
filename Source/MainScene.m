@@ -33,6 +33,11 @@
     [self updateHighscore];
 }
 
+-(void) done: (id)sender
+{
+    [[CCDirector sharedDirector] popScene];
+}
+
 - (void)observeValueForKeyPath:(NSString *)keyPath
                       ofObject:(id)object
                         change:(NSDictionary *)change
@@ -58,6 +63,5 @@
 
 - (void)dealloc {
     [_grid removeObserver:self forKeyPath:@"score"];
-    [_grid removeObserver:self forKeyPath:@"highscore"];
 }
 @end
