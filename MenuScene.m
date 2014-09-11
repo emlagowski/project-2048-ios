@@ -14,7 +14,6 @@
 
 -(void) onPlayClicked{
     CCScene *mainScene = [CCBReader loadAsScene:@"MainScene"];
-    CCTransition *transition = [CCTransition transitionCrossFadeWithDuration:1.f];
-    [[CCDirector sharedDirector] replaceScene:mainScene withTransition:transition];
+    [[CCDirector sharedDirector] replaceScene:mainScene];
 }
 @end
